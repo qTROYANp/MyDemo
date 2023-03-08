@@ -1,0 +1,16 @@
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\bin\Debug\Proekt nomer 3.exe.config
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\bin\Debug\Proekt nomer 3.exe
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\bin\Debug\Proekt nomer 3.pdb
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt nomer 3.csproj.AssemblyReference.cache
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt nomer 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\MainWindow.g.cs
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\App.g.cs
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt nomer 3_MarkupCompile.cache
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt nomer 3_MarkupCompile.lref
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\MainWindow.baml
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt nomer 3.g.resources
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt_nomer_3.Properties.Resources.resources
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt nomer 3.csproj.GenerateResource.cache
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt nomer 3.csproj.CoreCompileInputs.cache
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt nomer 3.exe
+C:\Users\troya\source\repos\Proekt nomer 3\Proekt nomer 3\obj\Debug\Proekt nomer 3.pdb
